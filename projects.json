@@ -1,0 +1,406 @@
+[
+	{
+		"project" : "ACACIA TOWNHOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "ALPINE RESIDENCES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "ARABELLA HOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "ARABELLA HOMES II",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "AZALEA VISTA",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "AZALEA VISTA 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BIRMINGHAM VILLAGE",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BIRMINGHAM VILLAGE 3",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BLUETREE RESIDENCES 1",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "BOSTON HEIGHTS",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BOSTON HEIGHTS 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BOSTON HEIGHTS 3",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BOSTON HEIGHTS 4",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BRENTWOOD RESIDENCES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "BRENTWOOD RESIDENCES PH2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "BRIXTON HOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BROOKLYN HEIGHTS",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "BURBANK VILLAGE",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "BURGUNDY HOMES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "CAMACHILE SUBDIVISION",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CARLTON RESIDENCES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CARLTON RESIDENCES 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CASA CATRINA",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "CASA ESPERANZA",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CASA ISABEL",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CASA ISABEL EXTENSION",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CASA SEGOVIA",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "CASA SEGOVIA 2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "CENTENNIAL DE CALAMBA",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CENTENNIAL DE CALAMBA EXTENSION",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CENTENNIAL HOMES 1",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CENTENNIAL HOMES 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CENTENNIAL TOWNHOMES 1",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CENTENNIAL TOWNHOMES 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CHARLESTON PLACE",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "CITADEL RESIDENCES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CITADEL RESIDENCES 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CITADEL RESIDENCES 3",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "CLAYTON HEIGHTS",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "FILMORE PLACE",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "GLENDALE RESIDENCES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "GRANDVIEW HEIGHTS ",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "GRANDVIEW HEIGHTS 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "HIGHLAND RESIDENCES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "HOWARD VILLAGE",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "HOWARD VILLAGE II ",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "IBIZA TOWNHOMES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "LA JOLLA",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "LIBERTY HOMES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "MARCO POLO PLACE 1",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "MARCO POLO PLACE 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "MARCO POLO PLACE 3",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "MARCO POLO PLACE 4",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "MARILAO GRAND VILLAS",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "MARILAO GRAND VILLAS 3",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "MONDELLO HOMES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "MONTANA HEIGHTS",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "MONTE CARLO TOWNHOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "MORGAN RESIDENCES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "MOSAIC TOWNHOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "NEWTON HEIGHTS",
+		"location" : "SOUTH"
+	},
+	{
+        "project" : "PALMDALE VILLAGE",
+        "location" : "SOUTH"
+    },
+	{
+		"project" : "PARAGON VILLAGE",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "PASADENA HOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "PORTOBELLO HOMES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "QUEENSBOROUGH",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "RIVIERA HEIGHTS ",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "RIVIERA HEIGHTS EXTENSION ",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "SAFFRON HILLS",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SAFFRON HILLS 2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SAN ISIDRO HEIGHTS 1",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "SAN ISIDRO HEIGHTS 2",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "SOMERSET HOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "SONOMA RESIDENCES",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SONOMA RESIDENCES 2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SONOMA RESIDENCES 3",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SONOMA RESIDENCES 4",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SONOMA RESIDENCES EXTENSION",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SORRENTO VILLAGE",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SORRENTO VILLAGE 2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "SOUTHBROOKE VILLAGE",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "THE RIDGE",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "UPTOWN VILLAGE",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VERDANZA HOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "VICTORIA TOWNHOMES",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "VILLA ARCADIA",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "VILLA DE CHARLOTTE",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "VILLA MARCELA",
+		"location" : "NORTH"
+	},
+	{	"project" : "VILLA MARCELA 2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA MARCELA 3",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA SAN MATEO 1",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA SAN MATEO 2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA SAN MATEO 3",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA SAN MATEO 4",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA SAN MATEO 5",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA SAN MATEO 6",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA SAN MATEO 7",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA ZARAGOSA",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "VILLA ZARAGOSA 2",
+		"location" : "NORTH"
+	},
+	{
+		"project" : "WHISTLER VILLAGE 3",
+		"location" : "SOUTH"
+	},
+	{
+		"project" : "ZEN TOWNHOMES",
+		"location" : "NORTH"
+	}
+]
+
